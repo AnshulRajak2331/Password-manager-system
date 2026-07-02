@@ -2,22 +2,22 @@
 
 A simple **Password Manager System** built using **Python**. This console-based application allows users to securely store website passwords, view saved passwords, and generate strong random passwords.
 
-## ✨ Features
+##  Features
 
-- 💾 Save website passwords
-- 👀 View saved passwords
-- 🔑 Generate strong random passwords
-- 📁 Stores passwords in a text file (`passwords.txt`)
-- 🖥️ Easy-to-use menu-driven interface
+-  Save website passwords
+-  View saved passwords
+-  Generate strong random passwords
+-  Stores passwords in a text file (`passwords.txt`)
+-  Easy-to-use menu-driven interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - File Handling
 - `random` module
 - `string` module
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Password-Manager-System/
@@ -26,7 +26,7 @@ Password-Manager-System/
 └── README.md
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
@@ -40,14 +40,14 @@ Password-Manager-System/
    ```bash
    python main.py
    ```
-## 📋 Menu Options
+##  Menu Options
 
 1. Save Password
 2. View Saved Passwords
 3. Generate Random Password
 4. Exit
 
-## 🔒 Password Generator
+##  Password Generator
 
 The application generates an **8-character strong password** using a combination of:
 
@@ -56,7 +56,7 @@ The application generates an **8-character strong password** using a combination
 - Numbers (0–9)
 - Special characters (`@`, `#`, `$`, `%`, `&`)
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Encrypt stored passwords
 - Add a master password for authentication
@@ -65,7 +65,7 @@ The application generates an **8-character strong password** using a combination
 - Generate passwords with customizable length
 - Build a graphical user interface (Tkinter)
 
-## 👨‍💻 Author
+##  Author
 
 **Anshul Kumar**
 
